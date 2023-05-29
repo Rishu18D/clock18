@@ -1,2 +1,2 @@
 # clock18
-watch or time 
+Watch your time 
